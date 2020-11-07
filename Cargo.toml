@@ -1,6 +1,6 @@
 [package]
 version = "0.1.0"
-name = "{{project-name}}"
+name = "project-name"
 repository = "https://github.com/seed-rs/seed-quickstart"
 authors = ["{{authors}}"]
 description = "App Description"
